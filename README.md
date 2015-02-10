@@ -59,6 +59,35 @@ DELETE - Destroy        (Delete user)
  3. What inputs are acceptable?  
  4. How to format outputs?  
  5. How to implement error handling?  
+ 
+
+#Lecture 9
+
+###Gist created to clarify Javascript's this variable: 
+
+Four ways of setting this: 
+Default Binding
+Implicit Binding
+Explicit Binding
+Constructor
+
+###Contacts Web API:
+
+Cleaned up the app because too cluttered. 
+Used RequireJS, which tackles problems w/ script tags, JS libraries, and managing the files created because of code modularization.
+Bower downloads middleware.
+RequireJS uses module IDs.
+
+###IIFE: Immediately Invoked Function Expression
+Common convention in JS is module pattern.
+Only functions create new scope in JS (blocks do not, etc.).
+
+### Getting Data from Twitter (PART 1):
+Go to dev.twitter.com -> Manage your apps (at bottom) -> Create New App
+Create access token after modifying read/write permission.
+
+
+
 
 
 
