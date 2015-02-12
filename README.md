@@ -86,6 +86,14 @@ Only functions create new scope in JS (blocks do not, etc.).
 Go to dev.twitter.com -> Manage your apps (at bottom) -> Create New App
 Create access token after modifying read/write permission.
 
+#Lecture 10
+
+Consumer keys and access tokens used by OAuth. OAuth is a web-based security protocol. CK identifies an application while AT identifies specific user. 
+
+Bunch of supporting programs to help with management. 
+
+Bunch of Ruby implementation stuff.
+
 
 
 
