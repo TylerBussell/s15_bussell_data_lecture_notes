@@ -94,6 +94,15 @@ Bunch of supporting programs to help with management.
 
 Bunch of Ruby implementation stuff.
 
+#Lecture 11
+
+
+Looking at twitter data collection framework. 5 REST API endpoints 2 Streaming API endpoints. Handles twitter rate limits. Provides implementations of working w/ timelines and working with cursors. 
+
+Description of framework. 
+
+
+
 
 
 
