@@ -101,7 +101,15 @@ Looking at twitter data collection framework. 5 REST API endpoints 2 Streaming A
 
 Description of framework. 
 
+#Lecture 14
 
+###MongoDB Presentation
+
+Document based DB. Stores in BSON. Row replaced with document. No schema. BD indexes are data structures. Very scalable. 
+
+CAP THEOREM: Consistency and Availability compete
+
+Collection thought of as table with dynaic schema. Each dog has special key"_id". 
 
 
 
